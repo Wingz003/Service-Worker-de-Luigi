@@ -1,4 +1,4 @@
-# MVC CMS-style blog site
+# That Other Text Editor
 https://sleepy-everglades-82373.herokuapp.com/
 
 
